@@ -1,2 +1,2 @@
 # Python_Jackfruit
-Sudoko Game 
+Logical Puzzles and Math Tools:Sudoko Game 
